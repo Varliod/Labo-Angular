@@ -1,0 +1,24 @@
+{
+    "coopType": [
+        {
+            "id": 1,
+            "title": "Machin"
+        },
+        {
+            "id": 2,
+            "title": "Chouette"
+        },
+        {
+            "id": 3,
+            "title": "Chose"
+        },
+        {
+            "id": 4,
+            "title": "Bidule"
+        },
+        {
+            "id": 5,
+            "title": "Bazard"
+        }
+    ]
+}

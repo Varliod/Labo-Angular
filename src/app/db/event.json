@@ -1,0 +1,24 @@
+{
+    "event": [
+        {
+            "id": 1,
+            "title": "Brocante"
+        },
+        {
+            "id": 2,
+            "title": "Festival"
+        },
+        {
+            "id": 3,
+            "title": "Présentation"
+        },
+        {
+            "id": 4,
+            "title": "Dégustation"
+        },
+        {
+            "id": 5,
+            "title": "Réunion"
+        }
+    ]
+}
